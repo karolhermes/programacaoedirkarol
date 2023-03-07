@@ -1,0 +1,23 @@
+﻿Anna Karolina Hermes de Cristo 
+Ibmec-centro
+Programação e Direito 
+
+
+Rede neural artificial
+ É um método de inteligência artificial para solucionar problemas através da simulação do cérebro humano. Ensina os computadores a processar dados de uma forma parecida com a do cérebro humano, é um tipo de processo de aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro, e que adquirem conhecimento através da experiência,  inclusive em seu comportamento, aprendendo, errando e fazendo descobertas. 
+
+
+Algoritmo
+Eles são utilizados, por exemplo, para classificar conteúdos em redes sociais, fazer buscas mais eficientes ou criar recomendações personalizadas, é uma sequência de instruções ou comandos realizados de forma sistemática com a finalidade de resolver um problema ou executar uma determinada tarefa.
+
+
+Zero-rating 
+É a prática de fornecer acesso à Internet sem custos financeiros sob certas condições, permitindo apenas o acesso a determinados sites ou subsidiando o serviço com publicidade.
+
+
+Banco de dados 
+É uma coleção de informações ou dados estruturados, normalmente armazenados eletronicamente em um sistema de computador.
+
+
+ Sistema de Arquivos
+ É um sistema utilizado para armazenar, organizar e acessar dados em um computador de forma mais fácil e eficaz.
